@@ -1,4 +1,3 @@
-# hello-world
-new to this
+Hi,
 
-to git(Hub) that is. 
+I'm André
